@@ -5,4 +5,6 @@ export const Config = {
 
     testserver:"xxxx",
     testcdn:"xxxx",
+
+    add:11,
 }
