@@ -1,9 +1,9 @@
 export const Config = {
 
-    // server:"xxx",
-    // cdn:"xxx",
+    // devserver:"xxx",
+    // devcdn:"xxx",
 
-    server:"xxxx",
-    cdn:"xxxx",
+    testserver:"xxxx",
+    testcdn:"xxxx",
 
 }
