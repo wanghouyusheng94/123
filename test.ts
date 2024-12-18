@@ -1,4 +1,4 @@
 export const Config = {
-    test: false,
-    dev: true,
+    server: "master"
+    //server: "test",
 }
