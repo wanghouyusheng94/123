@@ -1,1 +1,9 @@
-//test1:1
+export const Config = {
+
+    // server:"xxx",
+    // cdn:"xxx",
+
+    server:"xxxx",
+    cdn:"xxxx",
+
+}
