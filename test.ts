@@ -1,8 +1,4 @@
 export const Config = {
-
-    devserver:"xxx",
-    devcdn:"xxx",
-
-    // testserver:"xxxx",
-    // testcdn:"xxxx",
+    test: false,
+    dev: true,
 }
