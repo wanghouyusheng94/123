@@ -6,4 +6,5 @@ export const Config = {
     testserver:"xxxx",
     testcdn:"xxxx",
 
+    kelian:"ll",
 }
